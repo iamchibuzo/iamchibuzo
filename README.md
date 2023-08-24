@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iamchibuzo
 - 👀 I'm a Junior Data Analyst || Front End Developer.
-- 🌱 I’m currently learnin
-- 💞️ I’m looking to collaborate on web development projects 
+- 💞️ I’m looking to collaborate on a Data Analyst|| Web development projects 
 - 📫 How to reach me ernestogu803@gmail.com
 
 <!---
